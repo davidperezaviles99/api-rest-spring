@@ -1,0 +1,2 @@
+INSERT INTO clientes(nombre, apellido,email,telefono) VALUES("David", "Perez", "david@gmail.com",23)
+INSERT INTO clientes(nombre, apellido,email,telefono) VALUES("David", "Perez", "david@gmail.com",23)
